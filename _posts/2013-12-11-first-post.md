@@ -30,7 +30,8 @@ tags:
  2. 我的模板选用自：[jolestar][1] 非常感谢您！
 
 
+[1]: https://github.com/jolestarf
 
 
-  [1]: https://github.com/jolestar
+![](../images/bdlogo.gif)
 
